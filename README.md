@@ -11,6 +11,11 @@
 
 ## About me
 
+<p align="center">
+  <img src="assets/gifs/deep_thinking.gif" width="400" />
+</p>
+
+
 I'm a mathematics student turned software developer who enjoys building things close to the system as much as working with data and backend logic.
 
 I like:
@@ -59,6 +64,12 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 ---
 
 ## 📈 GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zain-Ahma12/Zain-Ahma12/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Zain-Ahma12/Zain-Ahma12/output/snake.svg" alt="Snake animation">
+</picture>
+
 
 <div align="center">
 
