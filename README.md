@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmad Zain
+# <img src="assets/gifs/hello.gif" height="40" style="vertical-align: middle;" />  I'm Ahmad Zain
 
 <p align="left">
   🎓 B.Sc. Mathematics @ Loyola College, Chennai<br/>
@@ -7,13 +7,13 @@
   ♟️ Chess | 📊 Data | 🛠️ Low-level C
 </p>
 
----
+<p>
+  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+</p>
 
 ## About me
 
-<p align="center">
-  <img src="assets/gifs/deep_thinking.gif" width="400" />
-</p>
+<img align="right" height="150" src="assets/gifs/night_chill.gif"  />
 
 
 I'm a mathematics student turned software developer who enjoys building things close to the system as much as working with data and backend logic.
@@ -25,12 +25,15 @@ I like:
 
 Currently working full-time as a **Junior Software Developer at Verizon**, while continuously building and refining personal projects.
 
----
+<p>
+  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+</p>
 
-## 🧰 Tech Stack
+## <img src="assets/gifs/skills.gif" height="30" style="vertical-align: middle;" /> Tech Stack
+
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="assets/gifs/python.gif" height="40" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="20" />
@@ -38,20 +41,22 @@ Currently working full-time as a **Junior Software Developer at Verizon**, while
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="assets/gifs/html.gif" height="40" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="assets/gifs/css.gif" height="40" alt="css logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="assets/gifs/javascript.gif" height="40" alt="javascript logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 </div>
 
----
+<p>
+  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+</p>
 
 ## 🔭 Featured projects
 
@@ -63,7 +68,9 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 
 > Full project list and README files are in my repositories — explore to see code, Makefiles, and examples.
 
----
+<p>
+  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+</p>
 
 ## 🏆 Achievements & Certificates
 
@@ -73,7 +80,9 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 - IBM: **Artificial Intelligence Fundamentals**  
 - NPTEL: **Data Analytics with Python**
 
----
+<p>
+  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+</p>
 
 ## 📈 GitHub
 
@@ -83,7 +92,6 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 </picture>
 
 
-
 <div align="center">
 
   <br/>
@@ -91,21 +99,25 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Ahma12&layout=compact&theme=dracula" height="140" alt="top languages" />
 </div>
 
----
+<p>
+  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+</p>
 
 ## 📫 Connect
 
-- LinkedIn: [linkedin.com/in/zain--ahmad](https://www.linkedin.com/in/zain--ahmad/)  
-- GitHub: [github.com/Zain-Ahma12](https://github.com/Zain-Ahma12)  
+- <img src="assets/gifs/linkedIn.gif" height="25" style="vertical-align: middle;" /> [linkedin.com/in/zain--ahmad](https://www.linkedin.com/in/zain--ahmad/)  
+- <img src="assets/gifs/gitHub.gif" height="25" style="vertical-align: middle;" /> [github.com/Zain-Ahma12](https://github.com/Zain-Ahma12)  
 
----
+<p>
+  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+</p>
 
 > *“Mathematics teaches how to think; programming teaches how to build.”*
 
-###
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+
