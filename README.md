@@ -86,10 +86,10 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 
 ## 📈 GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zain-Ahma12/Zain-Ahma12/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Zain-Ahma12/Zain-Ahma12/output/snake.svg" alt="Snake animation" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zain-Ahma12/Zain-Ahma12/output/snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 
 <div align="center">
