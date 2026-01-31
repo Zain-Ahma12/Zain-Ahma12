@@ -1,4 +1,9 @@
-# <img src="assets/gifs/hello.gif" height="40" style="vertical-align: middle;" />  I'm Ahmad Zain
+<h1>
+  <img src="assets/gifs/hello.gif" height="27" />
+  I'm Ahmad Zain
+</h1>
+
+
 
 <p align="left">
   🎓 B.Sc. Mathematics @ Loyola College, Chennai<br/>
