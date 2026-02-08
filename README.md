@@ -100,8 +100,8 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 <div align="center">
 
   <br/>
-  ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zain-Ahma12&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zain-Ahma12&layout=compact&theme=dracula)
+  <img src="./stats.svg" height="140" />
+  <img src="./top-langs.svg" height="140" />
 
 </div>
 
