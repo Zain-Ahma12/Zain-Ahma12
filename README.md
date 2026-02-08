@@ -3,14 +3,14 @@
   I'm Ahmad Zain
 </h1>
 
+<img align="right" height="250" src="assets/gifs/octocat-1770563516979.png"  />
 
-
-<p align="left">
   🎓 B.Sc. Mathematics @ Loyola College, Chennai<br/>
   💻 Software Developer @ Verizon India<br/>
   🧠 Math · Systems · Backend Engineering · Data Enthusiast<br/>
   ♟️ Chess | 📊 Data | 🛠️ Low-level C
-</p>
+
+
 
 <p>
   <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
@@ -40,6 +40,8 @@ Currently working full-time as a **Junior Software Developer at Verizon**, while
 <div align="left">
   <img src="assets/gifs/python.gif" height="40" alt="python logo"  />
   <img width="20" />
+  <img src="assets/gifs/vscode.gif" height="40" alt="vscode logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -57,6 +59,9 @@ Currently working full-time as a **Junior Software Developer at Verizon**, while
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img src="assets/gifs/git.gif" height="40" alt="git logo"  />
+  <img src="assets/gifs/gitHub.gif" height="40" alt="github logo"  />
+  <img width="20" />
 </div>
 
 <p>
@@ -112,8 +117,13 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 
 ## 📫 Connect
 
-- <img src="assets/gifs/linkedIn.gif" height="25" style="vertical-align: middle;" /> [linkedin.com/in/zain--ahmad](https://www.linkedin.com/in/zain--ahmad/)  
-- <img src="assets/gifs/gitHub.gif" height="25" style="vertical-align: middle;" /> [github.com/Zain-Ahma12](https://github.com/Zain-Ahma12)  
+<a href="https://www.linkedin.com/in/zain--ahmad/" target="_blank">
+  <img src="assets/gifs/linkedIn.gif" height="25" style="margin-right: 10px;" />
+</a><a href="https://github.com/Zain-Ahma12" target="_blank">
+  <img src="assets/gifs/gitHub.gif" height="25" />
+</a>
+
+
 
 <p>
   <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
