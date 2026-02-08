@@ -100,8 +100,9 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 <div align="center">
 
   <br/>
-  <img src="./stats.svg" height="140" />
-  <img src="./top-langs.svg" height="140" />
+  <img src="https://raw.githubusercontent.com/Zain-Ahma12/Zain-Ahma12/output/stats.svg" height="140" />
+  <img src="https://raw.githubusercontent.com/Zain-Ahma12/Zain-Ahma12/output/top-langs.svg" height="140" />
+
 
 </div>
 
