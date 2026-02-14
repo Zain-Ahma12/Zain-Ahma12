@@ -1,20 +1,25 @@
-<h1>
-  <img src="assets/gifs/hello.gif" height="27" />
-  I'm Ahmad Zain
+<!-- ===================================================== -->
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ahmad%20Zain&fontAlign=50&fontAlignY=35&color=gradient&fontSize=45&desc=Mathematics%20×%20Systems%20×%20Code&descAlign=50&descAlignY=55" width="100%" />
+
+<h1 align="center">
+  <img src="assets/gifs/hello.gif" height="30"/>
+  Hey, I'm Ahmad Zain
 </h1>
 
-<img align="right" height="250" src="assets/gifs/octocat-1770563516979.png"  />
+<img align="right" src="assets/gifs/octocat-1770563516979.png" height="250"/>
 
-  🎓 B.Sc. Mathematics @ Loyola College, Chennai<br/>
-  💻 Software Developer @ Verizon India<br/>
-  🧠 Math · Systems · Backend Engineering · Data Enthusiast<br/>
-  ♟️ Chess | 📊 Data | 🛠️ Low-level C
+🎓 B.Sc. Mathematics @ Loyola College, Chennai<br/>
+💻 Software Developer @ Verizon India<br/>
+🧠 Math · Systems · Backend Engineering · Data Enthusiast<br/>
+♟️ Chess | 📊 Data | 🛠️ Low-level C
 
+<br clear="right"/>
 
-
-<p>
-  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+<p align="center">
+  <img src="assets/gifs/line_break.gif" width="100%" alt="section divider"/>
 </p>
+
 
 ## About me
 
