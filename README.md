@@ -35,8 +35,10 @@ I like:
 
 Currently working full-time as a **Junior Software Developer at Verizon**, while continuously building and refining personal projects.
 
-<p>
-  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+<br clear="right"/>
+
+<p align="center">
+  <img src="assets/gifs/line_break.gif" width="100%" alt="section divider" />
 </p>
 
 ## <img src="assets/gifs/skills.gif" height="30" style="vertical-align: middle;" /> Tech Stack
@@ -69,8 +71,8 @@ Currently working full-time as a **Junior Software Developer at Verizon**, while
   <img width="20" />
 </div>
 
-<p>
-  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+<p align="center">
+  <img src="assets/gifs/line_break.gif" width="100%" alt="section divider" />
 </p>
 
 ## 🔭 Featured projects
@@ -83,8 +85,8 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 
 > Full project list and README files are in my repositories — explore to see code, Makefiles, and examples.
 
-<p>
-  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+<p align="center">
+  <img src="assets/gifs/line_break.gif" width="100%" alt="section divider" />
 </p>
 
 ## 🏆 Achievements & Certificates
@@ -95,8 +97,8 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 - IBM: **Artificial Intelligence Fundamentals**  
 - NPTEL: **Data Analytics with Python**
 
-<p>
-  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+<p align="center">
+  <img src="assets/gifs/line_break.gif" width="100%" alt="section divider" />
 </p>
 
 ## 📈 GitHub
@@ -116,22 +118,24 @@ Small demo showing SHA-256 hashing using OpenSSL (MSYS2/Windows). Emphasizes cor
 
 </div>
 
-<p>
-  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+<p align="center">
+  <img src="assets/gifs/line_break.gif" width="100%" alt="section divider" />
 </p>
 
-## 📫 Connect
+## 🌍 Connect With Me
 
-<a href="https://www.linkedin.com/in/zain--ahmad/" target="_blank">
-  <img src="assets/gifs/linkedIn.gif" height="25" style="margin-right: 10px;" />
-</a><a href="https://github.com/Zain-Ahma12" target="_blank">
-  <img src="assets/gifs/gitHub.gif" height="25" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zain--ahmad/">
+    <img src="assets/gifs/linkedIn.gif" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Zain-Ahma12">
+    <img src="assets/gifs/gitHub.gif" height="40"/>
+  </a>
+</p>
 
-
-
-<p>
-  <img src="assets/gifs/line_break.gif" width="600" alt="section divider" />
+<p align="center">
+  <img src="assets/gifs/line_break.gif" width="100%" alt="section divider" />
 </p>
 
 > *“Mathematics teaches how to think; programming teaches how to build.”*
