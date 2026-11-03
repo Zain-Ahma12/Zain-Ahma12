@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ahmad%20Zain&fontAlign=50&fontAlignY=35&color=gradient&fontSize=45&desc=Mathematics%20×%20Systems%20×%20Code&descAlign=50&descAlignY=55" width="100%" />
 
 <h1 align="center">
-  <img src="assets/gifs/hello.gif" height="30"/>
+  <img src="assets/gifs/hello.gif" width="42" height="42" align="absmiddle"/>
   Hey, I'm Ahmad Zain
 </h1>
 
